@@ -48,29 +48,29 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-Initial Data Set
-![initial](https://github.com/hariharan2383/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/117346668/99e98ae9-d23c-4afa-b4db-0981a76aad6b)
+Initial Data Set: <br>
+![initial](https://github.com/hariharan2383/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/117346668/99e98ae9-d23c-4afa-b4db-0981a76aad6b) <br>
 
-Data info :
-![info](https://github.com/hariharan2383/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/117346668/8037d181-44c7-4653-ab14-3f1aa890a022)
+Data info : <br>
+![info](https://github.com/hariharan2383/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/117346668/8037d181-44c7-4653-ab14-3f1aa890a022) <br>
 
-Optimization of null values :
-![optimize](https://github.com/hariharan2383/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/117346668/4fc940f0-1869-436f-955e-eddefca177b1)
+Optimization of null values : <br>
+![optimize](https://github.com/hariharan2383/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/117346668/4fc940f0-1869-436f-955e-eddefca177b1) <br>
 
-Assignment of x value :
-![assignment](https://github.com/hariharan2383/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/117346668/9204d7be-11dd-44c6-9052-078f5de62d20)
+Assignment of x value : <br>
+![assignment](https://github.com/hariharan2383/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/117346668/9204d7be-11dd-44c6-9052-078f5de62d20) <br>
 
-Assignment of y value :
-![assignmentY](https://github.com/hariharan2383/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/117346668/0109490f-8bac-4ea9-b734-26e466997ce5)
+Assignment of y value : <br>
+![assignmentY](https://github.com/hariharan2383/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/117346668/0109490f-8bac-4ea9-b734-26e466997ce5) <br>
 
-Converting string literals to numerical values using label encoder :
-![Convert](https://github.com/hariharan2383/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/117346668/42373079-1298-4e65-bb81-3dd785b20f94)
+Converting string literals to numerical values using label encoder : <br>
+![Convert](https://github.com/hariharan2383/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/117346668/42373079-1298-4e65-bb81-3dd785b20f94) <br>
 
-Accuracy:
-![accuracy](https://github.com/hariharan2383/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/117346668/5efb0e92-5c5a-4649-9b16-12b16d614a4d)
+Accuracy: <br>
+![accuracy](https://github.com/hariharan2383/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/117346668/5efb0e92-5c5a-4649-9b16-12b16d614a4d) <br>
 
-Prediction:
-![predict](https://github.com/hariharan2383/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/117346668/d43c43b8-1b22-4d7e-894c-70e8e628509f)
+Prediction: <br>
+![predict](https://github.com/hariharan2383/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/117346668/d43c43b8-1b22-4d7e-894c-70e8e628509f) <br>
 
 
 ## Result:
